@@ -1,4 +1,5 @@
-
+#Using Asadullah-Dal17 'QR detection and Distance Estimation using Single camera opencv python'
+# and for hand detection from nicknochnack 'MediaPipeHandPose'
 import cv2 as cv
 import numpy as np
 import math
