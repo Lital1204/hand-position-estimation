@@ -1,3 +1,4 @@
+#credit to nicknochnack 'MediaPipeHandPose'
 import cv2
 import mediapipe as mp
 import time
